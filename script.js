@@ -19,7 +19,7 @@ if (savedTheme) {
   html.setAttribute("data-theme", savedTheme);
 }
 
-const forn=document.querySelector('.newletter__form'); 
+const form=document.querySelector('.newsletter__form'); 
 form.addEventListener('submit',(e)=> {
   e.preventDefault();
   alert('Thank you for Following!');
