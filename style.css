@@ -384,7 +384,6 @@ nav{
 }
 .hero__cta--secondary{
     color:var(--text);
-    border:1rem solid var(--text);
     border-radius:0.5rem;
     fon-weight:500;
 }
