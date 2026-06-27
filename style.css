@@ -172,7 +172,7 @@ nav{
     transform: translateY(-5px);
     box-shadow: 0px 10px 15px #333;
 }
-.stat h3{
+.stat h2{
     font-size: var(--text-2xl);
     color: var(--text);
     margin:0;
@@ -208,7 +208,7 @@ nav{
     color:var(--text-secondary);
 }
 
-.testimonial__card h3{
+.testimonial__card h2{
     margin-bottom:0.25rem;
     color:var(var(--text));
 }
