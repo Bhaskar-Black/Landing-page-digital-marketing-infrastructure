@@ -17,7 +17,7 @@ html{
 }
 @font-face{
     font-family:'Black Ops One';
-    src:url('.fonts/BlackOps-Regular.ttf') format("truetype");
+    src:url('.fonts/BlackOpsOne-Regular.ttf') format("truetype");
     font-style:normal;
     font-weight:400;
     font-display:swap;
