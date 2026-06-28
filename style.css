@@ -3,21 +3,21 @@ html{
 }
 @font-face{
     font-family:'Roboto';
-    src:url('fonts/Roboto-VariableFont_wdth,wgth.ttf') format("truetype");
+    src:url('./fonts/Roboto-VariableFont_wdth,wgth.ttf') format("truetype");
     font-style:normal;
     font-weight:100 900;
     font-display:swap;
 }
 @font-face{
     font-family:'Roboto';
-    src:url('fonts/Roboto-Italic-VariableFont_wdth,wgth.ttf') format("truetype");
+    src:url('./fonts/Roboto-Italic-VariableFont_wdth,wgth.ttf') format("truetype");
     font-style:italic;
     font-weight:100 900;
     font-display:swap;
 }
 @font-face{
     font-family:'Black Ops One';
-    src:url('fonts/BlackOpsOne-Regular.ttf') format("truetype");
+    src:url('./fonts/BlackOpsOne-Regular.ttf') format("truetype");
     font-style:normal;
     font-weight:400;
     font-display:swap;
